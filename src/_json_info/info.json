@@ -2,7 +2,7 @@
   {
     "siteName": "동명항",
     "siteNameEN": "DONGMYEONG PORT",
-    "localName": "속초",
+    "localName": "고성",
     "domain": "dongmyeong-port.co.kr",
     "baseCssPath": "http://sunnyking77.ebiz.test/static/css/tourist",
     "imgPath": "http://sunnyking77.ebiz.test/img/tourist/sokcho/dongmyeong-port.co.kr",
@@ -24,7 +24,6 @@
       "ment": "강원 속초시 동명동 동명항",
       "address": "강원도 속초시 동명동 동명항",
       "naverMap": "http://naver.me/xnKmYHJs",
-
       "kakaoMap": "http://kko.to/aNmbEmofo",
       "transport": [
         {
